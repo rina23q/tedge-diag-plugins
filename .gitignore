@@ -1,0 +1,11 @@
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+*.diff
+*.patch
+
+.idea
+
+output/
